@@ -1,0 +1,9 @@
+#logBg{
+    background-image: url("../img/image 1.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
